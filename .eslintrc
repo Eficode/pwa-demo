@@ -2,10 +2,12 @@
   "extends": ["eslint:recommended", "google"],
   "rules": {
     "no-var": 2,
-    "no-console": 0,
+    "no-console": 1,
     "comma-dangle": 0,
     "require-jsdoc": 0,
-    "no-useless-escape": 0
+    "no-useless-escape": 0,
+    "no-undef": 2,
+    "max-len": ['warn', 120]
   },
   "parserOptions": {
     "ecmaVersion": 6

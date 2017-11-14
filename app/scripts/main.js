@@ -2,7 +2,6 @@ const config = {
   "appKey": "YOUR_API_KEY"
 };
 
-
 const applicationServerPublicKey = 'BIuZ-RVsFwbj6AowVqy2_HNnI98s3jDZcYH93uoNsw8X8Za2spC7SR6vgL8U_pRHOeQNLOxCykG9Akxg8tOO-vg';
 const pushButton = document.querySelector('.button');
 const baseUrl = 'https://pixabay.com/api/';
