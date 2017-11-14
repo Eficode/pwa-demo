@@ -5,6 +5,8 @@ const webpush = require('web-push');
  These keys are auto generated, if you need to generate your own keys please use this command
  or see console commands from github.
 
+ Application public key is also in main.js
+
  Config values are generated from service worker registeration which will be logged in the developer console
 */
 
