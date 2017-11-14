@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="manifest" href="manifest.json">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="theme-color" content="#2F3BA2">
+
+  <title>Eficode PWA Push notification demo</title>
+
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+  <link rel="stylesheet" href="styles/index.css">
+</head>
+
+<body>
+  <header>
+    <h1>Eficode PWA Demo - Push notification</h1>
+  </header>
+
+  <main>
+    <section>
+      <button disabled class="button button-blue">
+        Enable Push Messaging
+      </button>
+      <p>
+      Once you've subscribed your user, you'd send their subscription to your
+      server to store in a database so that when you want to send a message
+      you can lookup the subscription and send a message to it.
+      </p>
+    </section>
+    <div class="image-container"></div> <!-- Generated in JS -->
+  </main>
+
+  <script src="scripts/main.js"></script>
+</body>
+</html>

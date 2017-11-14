@@ -1,0 +1,30 @@
+{
+  "name": "push-notifications",
+  "version": "1.0.0",
+  "description": "Push notifications demo.",
+  "scripts": {
+    "lint": "eslint \".\"",
+    "test": "npm run lint",
+    "start": "gulp"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "eslint": "^3.8.1",
+    "eslint-config-google": "^0.7.0",
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "workbox-build": "^2.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/GoogleChrome/push-notifications/issues"
+  },
+  "homepage": "https://github.com/GoogleChrome/push-notifications#readme",
+  "dependencies": {
+    "web-push": "^3.2.4"
+  }
+}
