@@ -1,5 +1,5 @@
 const config = {
-  "appKey": ""
+  "appKey": "YOUR_API_KEY"
 };
 
 

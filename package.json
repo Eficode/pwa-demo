@@ -5,7 +5,8 @@
   "scripts": {
     "lint": "eslint \".\"",
     "test": "npm run lint",
-    "start": "gulp"
+    "start": "gulp",
+    "pushmessage": "node backend/index.js"
   },
   "devDependencies": {
     "browser-sync": "^2.18.13",
