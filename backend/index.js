@@ -24,6 +24,6 @@ const config = {
     'p256dh': '',
     'auth': ''
   }
-}
+};
 
 webpush.sendNotification(config, 'Logging from backend');
