@@ -44,3 +44,9 @@ https://developers.google.com/web/ilt/pwa/introduction-to-progressive-web-app-ar
 
 6. Google web starter kit for progressive web apps
 https://github.com/google/web-starter-kit
+
+7. Push event data
+https://developer.mozilla.org/en-US/docs/Web/API/PushEvent/data
+
+8. Introduction to push messages
+https://developers.google.com/web/ilt/pwa/introduction-to-push-notifications
