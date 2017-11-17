@@ -5,7 +5,7 @@
   "scripts": {
     "lint": "eslint \".\"",
     "test": "npm run lint",
-    "start": "gulp",
+    "start": "node_modules/gulp/bin/gulp.js",
     "pushmessage": "node backend/index.js"
   },
   "devDependencies": {
