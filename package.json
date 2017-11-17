@@ -1,7 +1,7 @@
 {
-  "name": "push-notifications",
+  "name": "PWA-Demo",
   "version": "1.0.0",
-  "description": "Push notifications demo.",
+  "description": "Eficode PWA demo",
   "scripts": {
     "lint": "eslint \".\"",
     "test": "npm run lint",
@@ -21,9 +21,6 @@
     "url": ""
   },
   "license": "Apache 2",
-  "bugs": {
-    "url": "https://github.com/GoogleChrome/push-notifications/issues"
-  },
   "homepage": "https://github.com/GoogleChrome/push-notifications#readme",
   "dependencies": {
     "web-push": "^3.2.4"
