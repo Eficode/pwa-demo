@@ -1,5 +1,5 @@
 const config = {
-  "appKey": "YOUR_API_KEY"
+  appKey: 'YOUR_API_KEY'
 };
 
 const applicationServerPublicKey = 'BIuZ-RVsFwbj6AowVqy2_HNnI98s3jDZcYH93uoNsw8X8Za2spC7SR6vgL8U_pRHOeQNLOxCykG9Akxg8tOO-vg';
@@ -31,7 +31,7 @@ async function drawImages() {
     let backgroundPanel = document.querySelector(`.panel${index}`);
     backgroundPanel.style.backgroundImage = `url(${image.webformatURL})`;
   });
-};
+}
 
 drawImages();
 
