@@ -25,6 +25,13 @@
 6. Run "npm run pushmessage" to send push message from fake backend which is located in backend/index.js
 7. You should see push message sent from backend.
 
+### What next?
+
+1. Create new route
+2. Cache new route with Service worker
+3. Try wbBuild.generateSW Gulp task to generate routes automatically
+4. Send Push Message from backend
+
 # Links
 
 1. Web push library for backend:
