@@ -1,6 +1,7 @@
 {
   "name": "Eficode PWA demo",
   "short_name": "efipwademo",
+  "description": "Demo app to show PWA capabilities",
   "icons": [{
       "src": "images/touch/homescreen48.png",
       "sizes": "48x48",
