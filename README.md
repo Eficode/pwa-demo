@@ -27,10 +27,10 @@
 
 ### What next?
 
-1. Create new route
-2. Cache new route with Service worker
-3. Try wbBuild.generateSW Gulp task to generate routes automatically
-4. Send Push Message from backend
+1. Send Push Message from backend (event.data.json()) https://developer.mozilla.org/en-US/docs/Web/API/PushEvent/data
+2. Try wbBuild.generateSW Gulp task to generate routes automatically
+3. Create new route
+4. Cache new route with Service worker
 
 # Links
 
